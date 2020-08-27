@@ -1,0 +1,1 @@
+Spring websocket example with stomp protocol connected to reactjs client using updated [stompjs@5.4.4](https://github.com/stomp-js/stompjs) fork
