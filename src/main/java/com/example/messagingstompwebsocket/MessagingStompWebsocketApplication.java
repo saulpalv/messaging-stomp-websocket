@@ -13,8 +13,5 @@ public class MessagingStompWebsocketApplication {
 		new SpringApplicationBuilder(MessagingStompWebsocketApplication.class)
 				.web(WebApplicationType.SERVLET)
 				.run(args);
-
-		//new SpringApplication().setWebApplicationType(WebApplicationType.NONE);
-		//SpringApplication.run(MessagingStompWebsocketApplication.class, args);
 	}
 }
